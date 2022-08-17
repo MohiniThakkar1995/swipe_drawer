@@ -1,6 +1,6 @@
 name: swipe_drawer
 description: A package that provides swipable drawer with animation.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/MohiniThakkar1995/swipe_drawer.git
 
 environment:
