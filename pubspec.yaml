@@ -1,12 +1,10 @@
 name: swipe_drawer
 description: A package that provides swipable drawer with animation.
 version: 0.0.1
-authors:
-  - Mohini Thakkar<mohini.thakkar77@gmail.com>
-homepage:
+repository: https://github.com/MohiniThakkar1995/swipe_drawer.git
 
 environment:
-  sdk: ">=2.17.6 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
